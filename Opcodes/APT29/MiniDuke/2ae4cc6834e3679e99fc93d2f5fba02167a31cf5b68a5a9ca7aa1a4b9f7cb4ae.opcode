@@ -1,0 +1,13 @@
+[SECTION: Headers]
+
+[SECTION: .edata]
+
+[SECTION: .code]
+JMP
+
+[SECTION: .text]
+
+[SECTION: .reloc]
+
+[SECTION: .rdata]
+
