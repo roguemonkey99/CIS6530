@@ -1,0 +1,4 @@
+/APT29/HammerDuke/8995535721ebeaf6983c6cecf3182d756ca5b3911607452dd4ba2ad8ec86cf96.exe Protector: Obfuscar(1.0)
+/APT33/024720abbe74c6d8e81fb5aacde66f0526a3ed4f7300e14f0ff0599bbaa2cde0.exe Protector: .NET Reactor(6.5)
+/Evilnum/7775e63aeb7f42c2112118d39e3c87d0d9618b2e83173719e9d5c2049899269e.exe Protector: Skater
+/Patchwork/1eb22abc743122ce749f3d5263bf9285d2dccbc2b520b62a1b280783e87c671b.exe Protector: .NET Reactor(4.8-4.9)[Anti-ILDASM Protector: .NET Reactor(4.8-4.9)
