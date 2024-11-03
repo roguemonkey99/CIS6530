@@ -1,0 +1,20 @@
+[SECTION: Headers]
+
+[SECTION: .text]
+
+[SECTION: .data]
+
+[SECTION: .tls]
+
+[SECTION: .rdata]
+
+[SECTION: .idata]
+
+[SECTION: .didata]
+
+[SECTION: .edata]
+
+[SECTION: .rsrc]
+
+[SECTION: .reloc]
+

@@ -1,0 +1,20 @@
+[SECTION: Headers]
+
+[SECTION: UPX0]
+
+[SECTION: UPX1]
+
+[SECTION: UPX2]
+ADC
+ADD
+ADD
+POP
+DEC
+RET
+
+[SECTION: .aspack]
+
+[SECTION: .adata]
+
+[SECTION: tdb]
+

@@ -1,0 +1,18 @@
+[SECTION: Headers]
+
+[SECTION: .text]
+XOR
+JMP
+JMP
+CALL
+POP
+ADD
+XOR
+INC
+INC
+CMP
+JNZ
+SUB
+PUSH
+JMP
+
